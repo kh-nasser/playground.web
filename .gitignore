@@ -1,0 +1,16 @@
+.env
+.idea
+.vscode
+.protractor-fail-fast
+/bin
+/gopath
+/Godeps/_workspace/src/github.com/openshift/console
+/frontend/.cache-loader
+/frontend/__coverage__
+/frontend/public/bower_components
+/frontend/node_modules
+/frontend/public/dist
+/frontend/npm-debug.log
+/frontend/yarn-error.log
+/frontend/gui_test_screenshots
+/frontend/xunit_results.xml
